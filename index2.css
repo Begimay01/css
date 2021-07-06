@@ -1,0 +1,59 @@
+h1 {
+    color: rgba(0, 0, 0, 0.829);
+    background-color: #d1d1d1ea;
+    border: 1px solid black;
+    text-align: center;
+    height: 50px;
+    padding-top: 10px;
+
+}
+.news h2{
+    color: black;
+    font-size: 30px;
+    font-family: monospace;
+    margin-bottom: 10px;
+}
+input {
+    font-size: 22px;
+    margin-right: 10px;
+}
+button {
+    color: black;
+    font-size: 22px;
+}
+.adress p {
+    color: black;
+
+    text-align: center;
+    padding-top: 30px;
+    font-size: 24px;
+
+    background-color: #d1d1d1ea;
+    border: 1px solid black;
+    height: 60px;
+}
+
+.vse {
+    padding-left: 44px;
+    background-color: #d1d1d1ea;
+    border: 1px solid black;
+}
+.ppp p {
+    color: black;
+    font-size: 24px;
+    background-color: white;
+    border: 1px solid black;
+    width: 450px;
+    height: 70px;
+    padding: 15px 40px 10px 10px;
+    margin: 10px;
+}
+.polno {
+    margin: 30px 100px 50px 100px;
+    width: 1250px;
+    position: s;
+}
+.relative {
+    position: static;
+    margin-top:20px;
+}
